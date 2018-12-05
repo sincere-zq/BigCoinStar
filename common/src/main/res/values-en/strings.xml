@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eth</string>
+
+    <string name="setting_language_auto">Follow System</string>
+    <string name="setting_language_english">English</string>
+    <string name="setting_simplified_chinese">Chinese</string>
+</resources>

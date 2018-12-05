@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eth</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">HOME</string>
+    <string name="market">MARKET</string>
+    <string name="bibi">BIBI</string>
+    <string name="otc">OTC</string>
+    <string name="more">MORE</string>
+    <string name="login">login</string>
+</resources>

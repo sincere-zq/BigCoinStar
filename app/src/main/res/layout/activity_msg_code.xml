@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MsgCodeActivity">
+
+    <com.netson.commonmodule.widget.VerificationCodeInput
+        android:id="@+id/verificationCodeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="25dp"
+        android:digits="1234567890"
+        android:gravity="center"
+        app:box="6"
+        app:box_bg_focus="@drawable/verification_edit_bg_focus"
+        app:box_bg_normal="@drawable/verification_edit_bg_normal"
+        app:child_h_padding="5dp" />
+</LinearLayout>
